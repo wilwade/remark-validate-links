@@ -1,5 +1,13 @@
 # remark-validate-links
 
+## FORK NOTICE
+
+### Fork Changes
+
+- Support Absolute paths
+  - added `basePath` to config
+- Support linking without file extensions
+
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
 [![Downloads][downloads-badge]][downloads]
